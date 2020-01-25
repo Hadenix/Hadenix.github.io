@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
+title: Projects
+permalink: /projects/
 ---
 
-![Hadenix](http://Hadenix.github.io/images/avatar.jpg)
+![Hadenix](https://avatars1.githubusercontent.com/u/23193304?s=460&v=4)
 
 ### Telegram Projects
 * **UMIDIGI News** - [link](https://t.me/umidigi_news)
