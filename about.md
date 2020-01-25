@@ -6,12 +6,16 @@ permalink: /about/
 
 ![Hadenix](http://Hadenix.github.io/images/avatar.jpg)
 
-### Telegram Projects
-* **UMIDIGI News** - [link](https://t.me/umidigi_news)
+### О себе:
+* **Добродушный и весьма отзывчивый человек, но, как всегда, из любых правил бывают исключения**
 
-* **UMIDIGI A5 Pro Updates** - [link](https://t.me/UMIDIGIA5Pro)
+### Интересы:
+* **Телекоммуникационные технологии**
 
-* **UMIDIGI A5 Pro Chat** - [link](https://t.me/umidigia5prochat)
+* **Радиоэлектроника**
 
-### Old Telegram projects
-* **UleFone Power - UPDATES** - [link](https://t.me/ulefonepower1)
+* **Мобильные фотографии**
+
+* **Построение Android**
+
+* **И много чего разного, всё не написать**
