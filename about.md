@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![Hadenix](http://Hadenix.github.io/images/avatar.jpg)
+![Hadenix](http://Hadenix.github.io/images/avatar.png)
 
 ### О себе:
 * **Добродушный и весьма отзывчивый человек, но, как всегда, из любых правил бывают исключения**
