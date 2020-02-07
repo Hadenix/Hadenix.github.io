@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-![Hadenix](http://Hadenix.github.io/images/lKNLXXVsUBM.jpg)
+![Hadenix](http://Hadenix.github.io/images/logo.png)
 
 ### Telegram Projects
 * **UMIDIGI News** - [link](https://t.me/umidigi_news)
