@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![Hadenix](http://Hadenix.github.io/images/avatar.png)
+<p><img src="http://Hadenix.github.io/images/avatar.png" width="400" height="400" alt="Hadenix"></p>
 
 ### О себе:
 * **Добродушный и весьма отзывчивый человек, но, как всегда, из любых правил бывают исключения**
@@ -23,15 +23,17 @@ permalink: /about/
 
 * **И много чего разного, всё не написать**
 
-### Мои устройства:
+### Мои устройства (На данный момент):
 * **Xiaomi Redmi Note 5 Pro (whyred)**
+
+* **Huawei Y7 (2017)**
+
+### Мои устройства (Бывшие):
+
+* **TP-LINK Neffos X1 Lite**
+
+* **UMIDIGI A5 Pro (breeze)**
 
 * **UleFone Power**
 
 * **Xiaomi Redmi Note 4X**
-
-* **UMIDIGI A5 Pro (breeze)**
-
-* **TP-LINK Neffos X1 Lite**
-
-* **Huawei Y7 (2017)**
