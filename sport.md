@@ -1,9 +1,7 @@
 ---
-layout: post
-title: Food for drying the body
-category: sport
-excerpt: drying
-author: Kirill Yaroshevich
+layout: page
+title: Sport
+permalink: /sport/
 ---
 
 Приёмы | Что есть
