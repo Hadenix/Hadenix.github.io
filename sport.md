@@ -7,6 +7,7 @@ permalink: /sport/
 ### Питание для сушки тела:
 
 * **Начало 22.06.2020**
+* **Made for me: Kazakh crest from Belarus**
 * **Использую кухонные весы energy en-429s**
 
 Приёмы | Что есть
@@ -17,4 +18,4 @@ permalink: /sport/
 4 приём | порция протеина, пачка творога
 
 
-#### Made for me: Kazakh crest from Belarus
+### Программа тренировки:
