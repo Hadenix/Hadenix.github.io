@@ -7,7 +7,7 @@ permalink: /projects/
 ![Hadenix](http://Hadenix.github.io/images/logo.png)
 
 ### Telegram Projects
-* **Redmi K30 5G / Picasso | UPDATES** - [link](https://t.me/K30_5J)
+* **Redmi K30 5G - UPDATES** - [link](https://t.me/K30_5J)
 
 ### Old Telegram projects
 * **UMIDIGI News** - [link](https://t.me/umidigi_news)
