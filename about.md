@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<p><img src="http://Hadenix.github.io/images/avatar.png" width="400" height="400" alt="Hadenix"></p>
+<p><img src="http://Hadenix.github.io/images/avatar.png" width="280" height="280" alt="Hadenix"></p>
 
 ### О себе:
 * **Добродушный и весьма отзывчивый человек, но, как всегда, из любых правил бывают исключения**
@@ -27,6 +27,10 @@ permalink: /about/
 * **Xiaomi Redmi Note 5 Pro (whyred)**
 
 * **Huawei Y7 (2017)**
+
+* **Redmi K30 5G (picasso)**
+
+* **Xiaomi Redmi 3s (land)**
 
 ### Мои устройства (Бывшие):
 
