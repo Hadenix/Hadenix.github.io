@@ -6,7 +6,7 @@ permalink: /sport/
 
 ### Питание для сушки тела:
 
-* **Начало 22.06.2020**
+* **Начало 22.06.2020г**
 * **Made for me: Kazakh crest from Belarus**
 * **Использую кухонные весы energy en-429s**
 
