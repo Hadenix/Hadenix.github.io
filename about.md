@@ -24,16 +24,13 @@ permalink: /about/
 * **И много чего разного, всё не написать**
 
 ### Мои устройства (На данный момент):
-* **Xiaomi Redmi Note 5 Pro (whyred)**
-
 * **Huawei Y7 (2017)**
 
 * **Redmi K30 5G (picasso)**
 
 * **Xiaomi Redmi 3s (land)**
 
-### Мои устройства (Бывшие):
-
+### Мои устройства (Бывшие за последние 2 года):
 * **TP-LINK Neffos X1 Lite**
 
 * **UMIDIGI A5 Pro (breeze)**
@@ -41,3 +38,5 @@ permalink: /about/
 * **UleFone Power**
 
 * **Xiaomi Redmi Note 4X**
+
+* **Xiaomi Redmi Note 5 Pro (whyred)**
