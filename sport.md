@@ -36,3 +36,17 @@ permalink: /sport/
 [Разгибание на трицепс на верхнем блоке с канатной рукоятью](https://dailyfit.ru/uprazhneniya/razgibanie-na-triceps-vniz-ispolzuya-kanatnuyu-rukoyat/) | 3х12
 [Разгибание на трицепс на верхнем блоке](https://dailyfit.ru/uprazhneniya/razgibanie-na-triceps-vniz-2/) | 3х12
 [Подъем ног в висе на перекладине](https://dailyfit.ru/uprazhneniya/podem-nog-v-vise-na-perekladine/) | 4х25
+
+* **День 2 (Спина - Бицепс)**
+
+Упражнения | Подходы / повторения
+-------:|:-------------------------
+[Подтягивания](https://dailyfit.ru/uprazhneniya/podtjagivanija/) | 4x15
+[Горизонтальная тяга в тренажере](https://bodysportal.com/bodibilding/uprazhneniya/spina/tyaga-v-gorizontalnom-trenazhere) | 3x12
+[Тяга на нижнем блоке](https://dailyfit.ru/uprazhneniya/tyaga-na-nizhnem-bloke/) | 3x12
+[Тяга верхнего блока широким хватом](https://dailyfit.ru/uprazhneniya/tyaga-k-grudi-sverxu-shirokim-xvatom-v-trosovom-trenazhere/) | 4x15
+[Подъем гантелей на бицепс на наклонной скамье хватом молоток](https://dailyfit.ru/uprazhneniya/podem-gantelej-na-biceps-na-naklonnoj-skame-xvatom-molotok/) | 4x15
+[Подъем EZ-штанги на бицепс на скамье Скотта](https://dailyfit.ru/uprazhneniya/sgibanie-ruk-na-biceps-na-skame-skotta-s-ez-shtangoj/) | 4x15
+[Подъем EZ-штанги на бицепс стоя](https://dailyfit.ru/uprazhneniya/sgibanie-ruk-na-biceps-s-ez-shtangoj/) | 3x12
+[Подъем гантелей на бицепс стоя](https://dailyfit.ru/uprazhneniya/odnovremennoe-sgibanie-ruk-na-biceps-s-gantelyami/) | 3x12
+
