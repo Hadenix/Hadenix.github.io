@@ -74,7 +74,7 @@ permalink: /sport/
 [Скручивания на блоке](https://dailyfit.ru/uprazhneniya/skruchivaniya-sidya-na-skame-s-pomoshhyu-trosovogo-trenazhera/) | 4х12
 [Подъем ног в висе на перекладине](https://dailyfit.ru/uprazhneniya/podem-nog-v-vise-na-perekladine/) | 2х10+дроп-сет
 [Подъем туловища на наклонной скамье с отягощением](https://dailyfit.ru/uprazhneniya/podem-tulovishha-na-naklonnoj-skame-s-otyagoshheniem/) | 4x25
-[Косые скручивания на наклонной скамье](https://dailyfit.ru/uprazhneniya/kosye-skruchivaniya-na-naklonnoj-skame/) 4x25
+[Косые скручивания на наклонной скамье](https://dailyfit.ru/uprazhneniya/kosye-skruchivaniya-na-naklonnoj-skame/) | 4x25
 [Скручивания](https://dailyfit.ru/uprazhneniya/skruchivaniya/) | 4x25
 
 * **День 5 (Кардио)**
