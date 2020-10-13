@@ -61,7 +61,7 @@ permalink: /sport/
 [Жим сидя в машине](https://dailyfit.ru/uprazhneniya/zhim-sidya-v-trenazhere/) | 4x15
 [Жим гантелей сидя](https://dailyfit.ru/uprazhneniya/zhim-gantelej-sidja/) | 4x15
 [Подъемы рук в стороны на тренажере](https://sport-wiki.net/delts/podyemi-ruk-v-storoni-na-trenazhere.php) | 3x12
-[Разведение рук с гантелями в стороны стоя](https://dailyfit.ru/uprazhneniya/podem-gantelej-v-storony-stoja/)
+[Разведение рук с гантелями в стороны стоя](https://dailyfit.ru/uprazhneniya/podem-gantelej-v-storony-stoja/) | 3x12
 [Отведение руки в сторону на нижнем блоке](https://dailyfit.ru/uprazhneniya/podem-ruki-v-storonu-v-trosovom-trenazhere/) | 3x12
 [Вертикальная тяга нижнего блока](https://dailyfit.ru/uprazhneniya/vertikalnaya-tyaga-k-grudi-nizhnego-bloka/) | 3x12
 [Шраги в машине Смита](https://dailyfit.ru/uprazhneniya/shragi-v-trenazhere-smita/) | 4x15
