@@ -50,3 +50,35 @@ permalink: /sport/
 [Подъем EZ-штанги на бицепс стоя](https://dailyfit.ru/uprazhneniya/sgibanie-ruk-na-biceps-s-ez-shtangoj/) | 3x12
 [Подъем гантелей на бицепс стоя](https://dailyfit.ru/uprazhneniya/odnovremennoe-sgibanie-ruk-na-biceps-s-gantelyami/) | 3x12
 
+* **День 3 (Ноги - Плечи)**
+
+Упражнения | Подходы / повторения
+-------:|:-------------------------
+[Жим ногами](https://dailyfit.ru/uprazhneniya/zhim-nogami/) | 4x15
+[Выпрямление ног в тренажере](https://dailyfit.ru/uprazhneniya/vypryamlenie-nog-v-trenazhere/) | 3x12
+[Выпады с гантелями](https://dailyfit.ru/uprazhneniya/vypady-s-gantelyami/) | 3x12
+[Сгибание ног в тренажере лежа](https://dailyfit.ru/uprazhneniya/podem-nog-v-trenazhere-v-polozhenii-lezha/) | 4x15
+[Жим сидя в машине](https://dailyfit.ru/uprazhneniya/zhim-sidya-v-trenazhere/) | 4x15
+[Жим гантелей сидя](https://dailyfit.ru/uprazhneniya/zhim-gantelej-sidja/) | 4x15
+[Подъемы рук в стороны на тренажере](https://sport-wiki.net/delts/podyemi-ruk-v-storoni-na-trenazhere.php) | 3x12
+[Разведение рук с гантелями в стороны стоя](https://dailyfit.ru/uprazhneniya/podem-gantelej-v-storony-stoja/)
+[Отведение руки в сторону на нижнем блоке](https://dailyfit.ru/uprazhneniya/podem-ruki-v-storonu-v-trosovom-trenazhere/) | 3x12
+[Вертикальная тяга нижнего блока](https://dailyfit.ru/uprazhneniya/vertikalnaya-tyaga-k-grudi-nizhnego-bloka/) | 3x12
+[Шраги в машине Смита](https://dailyfit.ru/uprazhneniya/shragi-v-trenazhere-smita/) | 4x15
+[Подъем туловища на наклонной скамье с отягощением](https://dailyfit.ru/uprazhneniya/podem-tulovishha-na-naklonnoj-skame-s-otyagoshheniem/) | 4x25
+
+* **День 4 (Пресс)**
+
+Упражнения | Подходы / повторения
+-------:|:-------------------------
+[Скручивания на блоке](https://dailyfit.ru/uprazhneniya/skruchivaniya-sidya-na-skame-s-pomoshhyu-trosovogo-trenazhera/) | 4х12
+[Подъем ног в висе на перекладине](https://dailyfit.ru/uprazhneniya/podem-nog-v-vise-na-perekladine/) | 2х10+дроп-сет
+[Подъем туловища на наклонной скамье с отягощением](https://dailyfit.ru/uprazhneniya/podem-tulovishha-na-naklonnoj-skame-s-otyagoshheniem/) | 4x25
+[Косые скручивания на наклонной скамье](https://dailyfit.ru/uprazhneniya/kosye-skruchivaniya-na-naklonnoj-skame/) 4x25
+[Скручивания](https://dailyfit.ru/uprazhneniya/skruchivaniya/) | 4x25
+
+* **День 5 (Кардио)**
+
+Упражнения | Минут
+-------:|:-------------------------
+[Кардио](https://dailyfit.ru/osnovy-bodibildinga/mozhet-li-kardio-zamedlyat-myshechnyj-rost/) | 30-40
