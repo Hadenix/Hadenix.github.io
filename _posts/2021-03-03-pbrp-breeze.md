@@ -6,7 +6,7 @@ excerpt: 3.0 [STABLE]
 author: Kirill Yaroshevich
 ---
 
-![PitchBlack Recovery logo]()
+![PitchBlack Recovery logo](https://raw.githubusercontent.com/Hadenix/Hadenix.github.io/master/images/umidigi-a5-pro/PitchBlack%20Recovery.jpg)
 
 **Pitch Black Recovery is a fork of TWRP with many improvements to make your experience better. It's more flexible & easy to use. Pitch Black Recovery was started in March 18 2018 with the movement to enhance TWRP with better customizatons, themes and features.**
 
