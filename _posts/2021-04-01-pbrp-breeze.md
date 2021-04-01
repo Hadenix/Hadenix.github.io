@@ -2,7 +2,7 @@
 layout: post
 title: PitchBlack Recovery Project For UMIDIGI A5 Pro [A5_Pro][UNOFFICIAL]
 category: blog
-excerpt: 3.0 [STABLE]
+excerpt: 3.1 [STABLE]
 author: Kirill Yaroshevich
 ---
 
@@ -14,11 +14,24 @@ author: Kirill Yaroshevich
 * Decryption with default password
 
 ### Changelog
-03-03-2021
-- Fix MTP and ADB
-- Updated recovery.fstab
-- Kernel update from ROM V1.8
-- First release
+2021-04-01
+* new code version 3.1.0 PBRP
+* synchronization with sources
+* updated fstab
+* fixed bug with disabling recovery
+* set the correct color
+* set correct brightness settings
+* set correct device name
+
+<details>
+<summary>2021-03-03</summary>
+<p><ul>
+<li>Fix MTP and ADB</li>
+<li>Updated recovery.fstab</li>
+<li>Kernel update from ROM V1.8</li>
+<li>First release</li>
+</ul></p>
+</details>
 
 * PBRP Changelog
   * [View](https://t.me/UMIDIGIA5Pro)
