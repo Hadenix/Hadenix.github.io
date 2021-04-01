@@ -33,9 +33,6 @@ author: Kirill Yaroshevich
 </ul></p>
 </details>
 
-* PBRP Changelog
-  * [View](https://t.me/UMIDIGIA5Pro)
-
 ### Downloads & Device trees
 * PBRP for UMIDIGI A5 Pro - [View](https://sourceforge.net/projects/umidigi-mt6763-dev/files/PBRP/)
 * ADB/Fastboot Tool - [View](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
